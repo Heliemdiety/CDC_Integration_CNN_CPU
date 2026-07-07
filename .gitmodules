@@ -1,0 +1,6 @@
+[submodule "HeliemCore-2.0"]
+	path = HeliemCore-2.0
+	url = https://github.com/Heliemdiety/HeliemCore-2.0.git
+[submodule "CNN-accelerator"]
+	path = CNN-accelerator
+	url = https://github.com/Heliemdiety/CNN-accelerator.git
